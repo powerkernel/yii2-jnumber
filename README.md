@@ -26,3 +26,7 @@ Usage
 -----
 
 Once the extension is installed, simply use it in your code by  :
+
+```
+$form->field($model, 'number')->widget(JNumberInput::className(), ['scale'=>2])
+```
