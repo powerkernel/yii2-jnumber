@@ -1,0 +1,22 @@
+{
+    "name": "modernkernel/yii2-jnumber",
+    "description": "Yii2 jQuery Number",
+    "type": "yii2-extension",
+    "keywords": ["yii2","jquery number"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Harry Tang",
+            "email": "harry@modernkernel.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "bower-asset/jquery-number": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "modernkernel\\jnumber\\": ""
+        }
+    }
+}
