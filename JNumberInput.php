@@ -1,12 +1,12 @@
 <?php
 /**
- * @author Harry Tang <harry@modernkernel.com>
- * @link https://modernkernel.com
- * @copyright Copyright (c) 2016 Modern Kernel
+ * @author Harry Tang <harry@powerkernel.com>
+ * @link https://powerkernel.com
+ * @copyright Copyright (c) 2017 Power Kernel
  */
 
 
-namespace modernkernel\jnumber;
+namespace powerkernel\jnumber;
 
 
 use yii\helpers\Html;
@@ -14,7 +14,7 @@ use yii\widgets\InputWidget;
 
 /**
  * Class JNumberInput
- * @package modernkernel\jnumber
+ * @package powerkernel\jnumber
  */
 class JNumberInput extends InputWidget
 {

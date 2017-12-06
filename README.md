@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist modernkernel/yii2-jnumber "*"
+php composer.phar require --prefer-dist powerkernel/yii2-jnumber "*"
 ```
 
 or add
 
 ```
-"modernkernel/yii2-jnumber": "*"
+"powerkernel/yii2-jnumber": "*"
 ```
 
 to the require section of your `composer.json` file.
